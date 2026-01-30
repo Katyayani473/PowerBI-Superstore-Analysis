@@ -40,6 +40,9 @@ The dataset contains detailed order-level information, including:
 ---
 
 ## 📊 Dashboard Overview
+## Dashboard Preview
+
+![Dashboard](Superstore_Dashboard.png)
 The Power BI dashboard includes:
 
 - **KPI Cards:** Total Sales, Total Profit, Total Quantity, Profit Margin  
